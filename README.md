@@ -5,9 +5,6 @@ Step 1: double clink the avast_one_essential_setup_online.exe, and follow the in
 
 Step 2: right click and hit edit on the start.bat file to start setting up the NB miner miner. 
 
-( Below i will have link to my youtube channel padre mining to have step by step video on how to set up the miner ) 
-              https://www.youtube.com/channel/UCDwb-lWOR2I4yjGU_-8oQNw
-
 Step 3: make sure you change the algo, pool address, your wallet address. before you start mining.
 
 Step 4: save the start.bat file, next part is important, make sure you click the start.bat file to start the miner.
